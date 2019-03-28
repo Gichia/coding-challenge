@@ -25,6 +25,10 @@ This repository includes a function that takes in a list as a parameter and retu
 # Run the test
 ---------------------------------
 ```
+    python test_sum.py
+```
+or
+```
     pytest
 ```
 
