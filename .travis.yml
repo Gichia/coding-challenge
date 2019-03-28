@@ -6,7 +6,8 @@ python:
 install:
   - pip install -r requirements.txt
 
-scripts: python test_sum.py
+script:
+  - pytest
 
 notifications:
   email: false
