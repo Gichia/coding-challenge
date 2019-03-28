@@ -1,6 +1,5 @@
 # Test Sum
-This repository includes a function that takes in a list as a parameter and returns the sum of the elemnts in the list.
-Example primes_sum([1, 4, 56]) should return 61 as the answer.
+This repository includes a function that takes in a list as a parameter and returns the sum of the elements in the list. Example primes_sum([1, 4, 56]) should return 61 as the answer.
 
 
 # Getting started
